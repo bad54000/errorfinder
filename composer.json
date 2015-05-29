@@ -1,0 +1,19 @@
+{
+    "name": "conselio/errorfinder",
+    "Description": "Error Finder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dany Badoinot",
+            "email": "dany@conselio.com"
+        }
+    ],
+    "minimum-stability" : "dev",
+    "require": {
+        "php" : ">=5.3.0"
+    },
+    "target-dir": ".",
+    "autoload": {
+        "psr-0": { }
+    }
+}
