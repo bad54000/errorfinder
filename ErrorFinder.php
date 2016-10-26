@@ -1,6 +1,6 @@
 <?php
 
-namespace Conselio;
+namespace Demorose\PHPCI;
 
 use PHPCI\Plugin;
 use PHPCI\Builder;
