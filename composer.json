@@ -11,11 +11,5 @@
     "minimum-stability" : "dev",
     "require": {
         "php" : ">=5.3.0"
-    },
-    "target-dir": "bad54000/PHPCI/Plugin",
-    "autoload": {
-    	"psr-0": {                         
-            "bad54000\\PHPCI\\Plugin" : "" 
-	}                                  
     }
 }
