@@ -1,6 +1,6 @@
 <?php
 
-namespace Demorose\PHPCI;
+namespace Demorose\PHPCI\Plugin;
 
 use PHPCI\Plugin;
 use PHPCI\Builder;
